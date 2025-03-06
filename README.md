@@ -1,3 +1,2 @@
 # lm-studio-pyconnect
-# modifed by ch sagar
-# date[dd/mm/yy]: 3/6/25
+A simple Code to connect to ur locally enabled lm studio server using python and openai library
